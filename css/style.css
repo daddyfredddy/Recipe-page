@@ -31,6 +31,7 @@ header h1 {
 }
 #ingredients {
   float: left;
+  width: 50%;
 }
 #ingredients h2 {
   text-decoration: underline;
@@ -46,6 +47,10 @@ header h1 {
   text-align: center;
   list-style-position: inside;
   line-height: 2;
+}
+#dish {
+  padding-left: 10px;
+  padding-top: 70px;
 }
 #instructions h2 {
   text-align: center;
