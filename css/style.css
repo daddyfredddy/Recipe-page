@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+.container {
+  width: 80%;
+  background-color: orange;
+  margin: auto;
+}
+header h1 {
+  text-align: center;
+  padding: 15px 0px;
+}
+#title {
+  background-image: url(../images/brookies.webp);
+  height: 450px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  text-size-adjust: ;
+}
+
+#title h1 {
+  font-size: 50px;
+  color: aqua;
+  padding-top: 150px;
+}
+#ingredients {
+  float: left;
+}
+#ingredients h2 {
+  text-decoration: underline;
+  text-align: center;
+  padding: 15px 0px;
+}
+#ingredients h3 {
+  text-align: center;
+  padding: 15px 0px;
+  text-decoration: ;
+}
+#ingredients ul {
+  text-align: center;
+  list-style-position: inside;
+  line-height: 2;
+}
+#instructions h2 {
+  text-align: center;
+  padding-top: 100px;
+}
+#instructions ol {
+  text-align: center;
+  list-style-position: inside;
+  line-height: 2;
+}
+#instructions p {
+  text-align: center;
+}
+section img {
+  width: 500px;
+}
+#instructions ol {
+  margin-bottom: 20px;
+}
